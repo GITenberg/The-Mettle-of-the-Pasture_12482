@@ -1,0 +1,31 @@
+_repo: The-Mettle-of-the-Pasture_12482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: Though James Lane Allen's The Mettle of the Pasture is rife with the
+  lush descriptions and strong sense of place that imbue his previous works, the central
+  focus of this novel is on the complicated nuances of the blossoming love between
+  protagonists Isabel and Rowan, proving that Allen is as skilled in creating unforgettable
+  characters and dramatic tension as he is at depicting the contours of the natural
+  landscape.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Mettle of the Pasture
+url: http://www.gutenberg.org/ebooks/12482
