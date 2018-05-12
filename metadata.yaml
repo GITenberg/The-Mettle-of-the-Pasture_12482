@@ -1,5 +1,8 @@
 _repo: The-Mettle-of-the-Pasture_12482
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, James Lane
@@ -14,6 +17,8 @@ description: Though James Lane Allen's The Mettle of the Pasture is rife with th
   protagonists Isabel and Rowan, proving that Allen is as skilled in creating unforgettable
   characters and dramatic tension as he is at depicting the contours of the natural
   landscape.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12482#The-Mettle-of-the-Pasture
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
